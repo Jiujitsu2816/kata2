@@ -1,2 +1,4 @@
-Numero de lineas: 2
-Numero de caracteres: 27
+Videojuegos por genero:
+Sandbox: 1
+Simulation: 1
+Strategy: 2
