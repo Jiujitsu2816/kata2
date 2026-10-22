@@ -1,0 +1,4 @@
+Videojuegos por genero:
+Sandbox: 1
+Simulation: 1
+Strategy: 2
