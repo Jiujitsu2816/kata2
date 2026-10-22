@@ -5,6 +5,8 @@ out/
 .kotlin
 
 ### Eclipse ###
+.jar
+.class
 .apt_generated
 .classpath
 .factorypath
